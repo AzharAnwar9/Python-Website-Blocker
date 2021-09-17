@@ -1,17 +1,17 @@
 # Python-Website-Blocker
 
-# Overview
+## Overview
 This project is a website blocker build using python. This script will help its users to filter out the website that they don't want to access. The app once executed will ask users to accept if they want to enable the filtering mode and on accepting the prompt(Y/y or N/n), default content filtering will be enabled till the user wants to disable it. User can any time press cancel on app and the filtering will be automatically removed. If no filtering is required at any given point in time then the execution of script can be avoided.
 
 The project also mantains a list of URLs/Domains in a separate file that the user wants to block by enabling filtering mode. This simple text file can be updated anytime and script will automatically fetch the details from the file and filter the websites provided.
 
-# Pre-requisites
+## Pre-requisites
 
 1. Python 3.x installed on machine
 2. File containing list of URLs/Domains must be present in same folder as application.
 3. Script is required to be executed in admin mode(see details in How to Use section)
 
-# How to Use
+## How to Use
 The script is simple to understand and use. It can be utilized to its full functionality without opening/editing source code. Isn't that great? 
 
 Here is how you achieved this :
@@ -42,10 +42,10 @@ python websiteblocker.py
 
 #### If you face any issues while utilizing this simple project, you can raise it in issues section in this repository.
 
-# Pull Requests
+## Pull Requests
 
 If you have any valuable suggestions & changes to add, feel free to make a pull request. Your contribution to the project is as important and appriciated as the inital release and I will make sure these are implemented with validation.
 
-# Author
+## Author
 
 [Azhar Chougule](https://github.com/AzharAnwar9/)
