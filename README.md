@@ -8,8 +8,9 @@ The project also mantains a list of URLs/Domains in a separate file that the use
 ## Pre-requisites
 
 1. Python 3.x installed on machine
-2. File containing list of URLs/Domains must be present in same folder as application.
-3. Script is required to be executed in admin mode(see details in How to Use section)
+2. The script is currently working on Windows & Mac Operating Systems and Linux Distributions.
+3. File containing list of URLs/Domains must be present in same folder as application.
+4. Script is required to be executed in admin mode(see details in How to Use section).
 
 ## How to Use
 The script is simple to understand and use. It can be utilized to its full functionality without opening/editing source code. Isn't that great? 
