@@ -47,6 +47,11 @@ python websiteblocker.py
 
 If you have any valuable suggestions & changes to add, feel free to make a pull request. Your contribution to the project is as important and appriciated as the inital release and I will make sure these are implemented with validation.
 
+## Future Updates
+
+1. Enabling the app to whitelist certain URLs and filter every other access(allow few block all strategy)
+2. Enabling maintenance mode(addition/removal of filtering) in runtime
+
 ## Author
 
 [Azhar Chougule](https://github.com/AzharAnwar9/)
