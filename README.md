@@ -8,7 +8,7 @@ The project also mantains a list of URLs/Domains in a separate file that the use
 ## Pre-requisites
 
 1. Python 3.x installed on machine
-2. The script is currently working on Windows & Mac Operating Systems and Linux Distributions.
+2. The script is currently working on Windows & Mac Operating Systems and all Linux Distributions.
 3. File containing list of URLs/Domains must be present in same folder as application.
 4. Script is required to be executed in admin mode(see details in How to Use section).
 
