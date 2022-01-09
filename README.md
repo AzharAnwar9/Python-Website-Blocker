@@ -49,7 +49,7 @@ If you have any valuable suggestions & changes to add, feel free to make a pull 
 
 ## Future Updates
 
-1. Enabling the app to whitelist certain URLs and filter every other access(allow few block all strategy)
+1. Enabling the app to whitelist certain URLs and filter every other access(allow few block all strategy - Implicit Deny/White Listing)
 2. Enabling maintenance mode(addition/removal of filtering URLs) & administration in runtime
 
 ## Author
